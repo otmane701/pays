@@ -47,6 +47,8 @@ ajouter.setOnClickListener(new View.OnClickListener() {
     }
 });
 //  i have been modifacated
+        //ih
+       // have been modifacated to and thank you saad
 
 //        ArrayAdapter<String>adapter=new ArrayAdapter<>(this,
 //                android.R.layout.select_dialog_singlechoice,
