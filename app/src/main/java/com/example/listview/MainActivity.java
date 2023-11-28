@@ -46,6 +46,7 @@ ajouter.setOnClickListener(new View.OnClickListener() {
         contry.add(item.getText().toString());
     }
 });
+//  i have been modifacated
 
 //        ArrayAdapter<String>adapter=new ArrayAdapter<>(this,
 //                android.R.layout.select_dialog_singlechoice,
